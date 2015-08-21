@@ -1,3 +1,4 @@
+# Arduino Starter Series - Love-O-Meter
 This is a project from my Arduino starter series.
 
 In this project I'm going to make a Love-O-Meter, another project from the Arduino Projects Book. Perhaps this should have been made on Valentines day. Anyways, its simple
